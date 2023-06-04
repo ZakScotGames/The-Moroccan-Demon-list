@@ -1,33 +1,4 @@
 {
-	"Blade of Justice":{
-		"name":"Blade of Justice",
-		"ytcode":"6018CbEjA-4",
-		"minimumPercent":100,
-		"publisher":"Manix648 and more",
-		"list":[
-			{
-				"name":"Adya",
-				"link":"N/A"
-			}
-		],
-		"progresses":[
-			"none"
-		]
-	},
-	"Bloodbath":{
-		"name":"Bloodbath",
-		"ytcode":"twTw4fjT0ik",
-		"minimumPercent":54,
-		"publisher":"Riot",
-		"list":[
-			{
-				"name":"Adya",
-				"link":"https://cdn.discordapp.com/attachments/427893900594774026/1054386471085289562/2022-12-19_14-06-33_-_Trim.mp4"
-			}
-		],
-		"progresses":[
-			"none"
-		]
 	},
 	"Artificial Dream":{
 		"name":"Artificial Dream",
