@@ -1,0 +1,95 @@
+{
+	"Adya":{
+		"levels":[
+			"Blade of Justice",
+			"Bloodbath",
+			"Moment",
+			"Hypersonic",
+			"Cataclysm",
+			"Acu",
+		        "Thanatophobia",
+			"Crimson Clutter",
+			"CraZy III", 
+			"Acropolis",
+		        "Super Mario Wave",
+			"Poltergeist",
+			"Supersonic",
+		        "8o",
+			"A newborn star",
+		        "Night Terrors",
+			"Firewall",
+			"Magma Bound",
+			"Windy Landscape",
+			"CraZy II",
+			"Sharp Minor"
+		],
+		"progs":[
+		         "none"
+		]
+	},
+	"Taha":{
+		"levels":[
+			"Acu",
+			"Thanatophobia",
+			"Magma Bound",
+			"Windy Landscape"
+		],
+		"progs":[
+			"none"
+		]
+	},
+	"Vainy":{
+		"levels":[
+			"Anya III",
+			"Acu",
+			"CYCLONE",
+		        "Stereo demoness",
+		        "Magma Bound"
+		],
+		"progs":[
+			"none"
+		]
+	},
+	"ZakScotGames":{
+		"levels":[
+			"Artificial Dream",
+			"Hypersonic",
+			"Anya III",
+			"Crimson Clutter",
+			"Leyak",
+		        "Stereo demoness",
+			"Acropolis",
+		        "Zacarias",
+			"Super Mario Wave",
+			"Rupture",
+			"Poltergeist",
+			"Crying Souls",
+		        "8o",
+			"Sharp Minor",
+			"Windy Landscape"
+		],
+		"progs":[
+		        "none"
+		]
+	},
+        "cosmo":{
+                "levels":[
+		        "Leyak"
+		],
+		"progs":[
+		        "none"
+                ]		
+	},	
+	"MewJohto":{	
+		"levels":[
+		        "Windy Landscape",
+			"CraZy II"
+	        ],
+		"progs":[{
+			"name": "Acu",
+			"percent": 76
+		}
+		]	
+	}		
+}			
+			
